@@ -1,0 +1,4 @@
+services:
+  kube_news_web:
+    ports:
+      - 8082:8080
